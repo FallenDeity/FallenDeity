@@ -102,3 +102,11 @@
     </tr>
     </tbody>
 </table>
+
+[my personal website](https://website-1-j7943388.deta.app/) still in development tho
+
+<details><summary>Preview</summary>
+    
+![Preview](https://ik.imagekit.io/uiezmxi8f/website_1_j7943388_deta_app.jpg)
+
+</details>
