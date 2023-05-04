@@ -98,7 +98,7 @@
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallenDeity&theme=radical&langs_count=10&layout=compact&exclude_repo=SR-Tools,ScriptFunctions&hide=Pascal&border_color=000000&bg_color=101010"></td>
         <td><img
             alt=""
-            src="https://github-readme-stats.vercel.app/api/wakatime?username=FallenDeity&theme=radical&layout=compact&border_color=000000&bg_color=101010"></td>
+            src="https://github-readme-stats.vercel.app/api/wakatime?username=FallenDeity&theme=radical&layout=compact&border_color=000000&bg_color=101010&range=all_time"></td>
     </tr>
     </tbody>
 </table>
