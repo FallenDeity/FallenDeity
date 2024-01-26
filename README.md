@@ -1,6 +1,8 @@
 # [Portfolio Website](https://nextjs-portfolio-fallendeity.vercel.app)
 
-![Portfolio](assets/PortfolioWebsite.gif)
+<p align="center">
+    <img src="assets/PortfolioWebsite.gif" width="100%" />
+</p>
 
 <table>
     <thead>
@@ -14,19 +16,15 @@
             <td><img
                 alt=""
                 src="https://github-readme-stats.vercel.app/api?username=FallenDeity&show_icons=true&theme=radical&count_private=true&border_color=000000&line_height=20"></td>
-            <td><img alt="" src="https://streak-stats.demolab.com/?user=FallenDeity&theme=radical"></td>
+            <td><img alt="" src="https://streak-stats.demolab.com/?user=FallenDeity&theme=radical&border=000"></td>
         </tr>
     <thead>
         <tr>
-            <th>Most Used Langs</th>
-            <th>Wakatime</th>
+            <th colspan=2>Wakatime</th>
         </tr>
     </thead>
     <tr>
-        <td><img
-            alt=""
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=FallenDeity&theme=radical&langs_count=10&layout=compact&exclude_repo=SR-Tools,ScriptFunctions&hide=Pascal&border_color=000000&bg_color=101010"></td>
-        <td><img
+        <td colspan=2 align="center"><img
             alt=""
             src="https://github-readme-stats.vercel.app/api/wakatime?username=FallenDeity&theme=radical&layout=compact&border_color=000000&bg_color=101010&range=all_time"></td>
     </tr>
