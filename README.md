@@ -1,9 +1,3 @@
-# [Portfolio Website](https://nextjs-portfolio-fallendeity.vercel.app)
-
-<p align="center">
-    <img src="assets/PortfolioWebsite.gif" width="100%" />
-</p>
-
 <table>
     <thead>
         <tr>
