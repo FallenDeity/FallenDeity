@@ -10,7 +10,7 @@
             <td>
                 <picture>
                       <source srcset="https://github-readme-stats.vercel.app/api?username=FallenDeity&show_icons=true&include_all_commits=true&theme=radical&border_color=000000&line_height=20" media="(prefers-color-scheme: dark)" />
-                    <source srcset="https://github-readme-stats.vercel.app/api?username=FallenDeity&show_icons=true&include_all_commits=true&theme=buefy&border_color=000000&line_height=20" media="(prefers-color-scheme: dark)"  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+                    <source srcset="https://github-readme-stats.vercel.app/api?username=FallenDeity&show_icons=true&include_all_commits=true&theme=buefy&border_color=000000&line_height=20" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
                     <img src="https://github-readme-stats.vercel.app/api?username=FallenDeity&show_icons=true&include_all_commits=true&theme=radical&border_color=000000&line_height=20" />
                 </picture>
                 </td>
